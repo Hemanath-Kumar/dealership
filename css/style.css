@@ -433,7 +433,7 @@ section{
 }
 
 .contact .row .map{
-    flex:1 1 42rem;
+    flex:0 0 0 0rem;
     width: 100%;
     padding:2rem;
     text-align: center;
